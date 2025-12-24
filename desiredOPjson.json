@@ -1,0 +1,1066 @@
+{
+	"Date-1": {
+		"questionConfidence": 99.35128021240235,
+		"answerText": "June 26, 2025",
+		"answerSelection": null,
+		"answerConfidence": 99.35128021240235,
+		"IsHandWritten": "No",
+		"Page": 1,
+		"HandWrittenText": null
+	},
+	"Name-1": {
+		"questionConfidence": 99.58213806152344,
+		"answerText": "Helen Wilfong Mrs",
+		"answerSelection": null,
+		"answerConfidence": 99.58213806152344,
+		"IsHandWritten": "No",
+		"Page": 1,
+		"HandWrittenText": null
+	},
+	"Identifier-1": {
+		"questionConfidence": 99.3126220703125,
+		"answerText": "10650000900",
+		"answerSelection": null,
+		"answerConfidence": 99.3126220703125,
+		"IsHandWritten": "No",
+		"Page": 1,
+		"HandWrittenText": null
+	},
+	"Health Questionnaire": {
+		"questionConfidence": 99.78077697753906,
+		"answerText": "Health Questionnaire",
+		"answerSelection": null,
+		"answerConfidence": 99.78077697753906,
+		"IsHandWritten": "No",
+		"Page": 1,
+		"HandWrittenText": null
+	},
+	"A. Your General Information": {
+		"questionConfidence": 99.69657135009766,
+		"answerText": "A. Your General Information",
+		"answerSelection": null,
+		"answerConfidence": 99.69657135009766,
+		"IsHandWritten": "No",
+		"Page": 1,
+		"HandWrittenText": null
+	},
+	"1. How would you rate your health?": [
+		{
+			"questionConfidence": 99.89271545410156,
+			"answerText": "Excellent",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 91.50390625,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.89271545410156,
+			"answerText": "Very Good",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 91.357421875,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.89271545410156,
+			"answerText": "Good",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.57421875,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.89271545410156,
+			"answerText": "Fair",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 85.400390625,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.89271545410156,
+			"answerText": "Poor",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 92.431640625,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"2. Have you had a physical exam provided by your Primary Care physician in the last year?": [
+		{
+			"questionConfidence": 99.92716217041016,
+			"answerText": "Yes",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.013671875,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.92716217041016,
+			"answerText": "No",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 88.18359375,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"3. What is your current height?": [
+		{
+			"questionConfidence": 99.8663101196289,
+			"answerText": "5 ft",
+			"answerSelection": null,
+			"answerConfidence": 99.53862762451172,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8663101196289,
+			"answerText": "5 in",
+			"answerSelection": null,
+			"answerConfidence": 99.53702545166016,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"4. What is your current weight?": [
+		{
+			"questionConfidence": 98.31991577148438,
+			"answerText": "140 lbs",
+			"answerSelection": null,
+			"answerConfidence": 99.85112762451172,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"5. What is your ethnicity?": [
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "African American",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.404296875,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Asian",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 81.884765625,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Caucasian",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.892578125,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Hispanic",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 90.52734375,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Indian American",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.525390625,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Native American",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.330078125,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Native Hawaiian",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.548828125,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Pacific Islander",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.255859375,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8114242553711,
+			"answerText": "Other",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 90.33203125,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"Page Number - 1": [
+		{
+			"questionConfidence": 100,
+			"answerText": "1",
+			"answerSelection": null,
+			"answerConfidence": 98.4034194946289,
+			"IsHandWritten": "No",
+			"Page": 1,
+			"HandWrittenText": null
+		}
+	],
+	"Date-2": {
+		"questionConfidence": 98.68868255615235,
+		"answerText": "June 26, 2025",
+		"answerSelection": null,
+		"answerConfidence": 98.68868255615235,
+		"IsHandWritten": "No",
+		"Page": 2,
+		"HandWrittenText": null
+	},
+	"Name-2": {
+		"questionConfidence": 99.17051696777344,
+		"answerText": "Helen Wilfong Mrs",
+		"answerSelection": null,
+		"answerConfidence": 99.17051696777344,
+		"IsHandWritten": "No",
+		"Page": 2,
+		"HandWrittenText": null
+	},
+	"Identifier-2": {
+		"questionConfidence": 99.6436538696289,
+		"answerText": "10650000900",
+		"answerSelection": null,
+		"answerConfidence": 99.6436538696289,
+		"IsHandWritten": "No",
+		"Page": 2,
+		"HandWrittenText": null
+	},
+	"B. Your Physical Health": {
+		"questionConfidence": 99.81634521484375,
+		"answerText": "B. Your Physical Health",
+		"answerSelection": null,
+		"answerConfidence": 99.81634521484375,
+		"IsHandWritten": "No",
+		"Page": 2,
+		"HandWrittenText": null
+	},
+	"1. What medical conditions do you have, or have you had in the past?": [
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Arthritis",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 90.4296875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Autoimmune disorder",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.0625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Blood disorder (e.g., sickle cell anemia)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.697265625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Bone disorder (e.g., osteoporosis)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.501953125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Cancer; If yes, what type of cancer did you have:",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.96484375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Chronic mental conditions (e.g., bipolar disorder or schizophrenia)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.916015625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Chronic pain (e.g. persistent back pain or fibromyalgia)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.232421875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Congestive heart failure (CHF)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.427734375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Dementia or Alzheimer''s disease",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.6953125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Depression or anxiety",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.28125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Diabetes; If yes, what was your last A1C level?",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.96484375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Hearing problems",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.671875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Heart condition (e.g., coronary artery disease or irregular heart rhythm)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.57421875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "High blood pressure or hypertension",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.818359375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "High cholesterol",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.134765625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "HIV/AIDs",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.525390625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Kidney disorder",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.353515625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Liver disorder",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.037109375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Pre-diabetes: fasting blood glucose 100-125 mg/dl or Hgb A1C 5.7-6.4%",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.623046875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Sleep disturbances",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.767578125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Stroke, mini-stroke, or transient ischemic attack (TIA)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.548828125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Traumatic brain injury",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.083984375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.84791564941406,
+			"answerText": "Vision problems",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 86.03515625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		}
+	],
+	"2. How many medications do you take?": [
+		{
+			"questionConfidence": 99.9150390625,
+			"answerText": "0 to 5",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 80.56640625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9150390625,
+			"answerText": "6 to 10",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 84.9609375,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9150390625,
+			"answerText": "More than 10",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.55078125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		}
+	],
+	"3. Do you take your medications as prescribed?": [
+		{
+			"questionConfidence": 99.85610961914063,
+			"answerText": "All of the time",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.060546875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.85610961914063,
+			"answerText": "Most of the time",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 84.765625,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.85610961914063,
+			"answerText": "Less than half the time",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 83.30078125,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.85610961914063,
+			"answerText": "None of the time",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 80.029296875,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		}
+	],
+	"Page Number - 2": [
+		{
+			"questionConfidence": 100,
+			"answerText": "2",
+			"answerSelection": null,
+			"answerConfidence": 98.9014663696289,
+			"IsHandWritten": "No",
+			"Page": 2,
+			"HandWrittenText": null
+		}
+	],
+	"Date-3": {
+		"questionConfidence": 98.4991455078125,
+		"answerText": "June 26, 2025",
+		"answerSelection": null,
+		"answerConfidence": 98.4991455078125,
+		"IsHandWritten": "No",
+		"Page": 3,
+		"HandWrittenText": null
+	},
+	"Name-3": {
+		"questionConfidence": 99.1339111328125,
+		"answerText": "Helen Wilfong Mrs",
+		"answerSelection": null,
+		"answerConfidence": 99.1339111328125,
+		"IsHandWritten": "No",
+		"Page": 3,
+		"HandWrittenText": null
+	},
+	"Identifier-3": {
+		"questionConfidence": 98.77650451660156,
+		"answerText": "10650000900",
+		"answerSelection": null,
+		"answerConfidence": 98.77650451660156,
+		"IsHandWritten": "No",
+		"Page": 3,
+		"HandWrittenText": null
+	},
+	"4. Do you need help with any of the following activities?": [
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Brushing teeth, brushing hair, or shaving",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.18359375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Doing house or yard work",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.916015625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Driving or using public transportation",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.35546875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Eating meals",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 90.087890625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Getting dressed",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.892578125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Getting out of bed or a chair",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.74609375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Going out to visit family or friends",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.6484375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Going to place of worship",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.306640625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Going up stairs",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.96484375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Handling finances (e.g., writing checks or keeping track of money)",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.55078125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Housekeeping, including laundry",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.013671875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Keeping track of appointments",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.939453125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Making meals or cooking",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.37890625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Shopping or getting food",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.18359375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Taking a bath or shower",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.623046875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Taking medications",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.0859375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Using the computer",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.916015625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Using the telephone",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 87.6953125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Using the toilet",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 88.0859375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Walking or balance",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.865234375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.9217529296875,
+			"answerText": "Washing dishes or clothes",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.94140625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		}
+	],
+	"Are you getting assistance with these activities?": [
+		{
+			"questionConfidence": 99.95455932617188,
+			"answerText": "Yes",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.501953125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.95455932617188,
+			"answerText": "Less than half of the time",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.71875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.95455932617188,
+			"answerText": "No",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 87.20703125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		}
+	],
+	"5. If you have a caregiver(s) that assists you with any of the above activities, please provide their names(s) below:": [],
+	"Caregiver Name:": [
+		{
+			"questionConfidence": 99.9353256225586,
+			"answerText": "Testing",
+			"answerSelection": null,
+			"answerConfidence": 99.990234375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": "Testing"
+		},
+		{
+			"questionConfidence": 99.9353256225586,
+			"answerText": "Test",
+			"answerSelection": null,
+			"answerConfidence": 99.970703125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": "Test"
+		}
+	],
+	"Caregiver Relationship to you:": [],
+	"6. Which of the following services or equipment do you use at home?": [
+		{
+			"questionConfidence": 99.87258911132813,
+			"answerText": "Dialysis",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 89.013671875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.87258911132813,
+			"answerText": "Hospice services for a terminal illness",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.42578125,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.87258911132813,
+			"answerText": "Medical equipment such as a wheelchair, hospital bed, walker, etc.",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 85.498046875,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.87258911132813,
+			"answerText": "Oxygen or other respiratory supplies such as a nebulizer, CPAP or BiPAP machine",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 81.005859375,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.87258911132813,
+			"answerText": "Visits from a nurse, nursing assistant or physical therapist",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 83.056640625,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		}
+	],
+	"Page Number - 3": [
+		{
+			"questionConfidence": 100,
+			"answerText": "3",
+			"answerSelection": null,
+			"answerConfidence": 98.24836730957031,
+			"IsHandWritten": "No",
+			"Page": 3,
+			"HandWrittenText": null
+		}
+	],
+	"Date-4": {
+		"questionConfidence": 99.02336883544922,
+		"answerText": "June 26, 2025",
+		"answerSelection": null,
+		"answerConfidence": 99.02336883544922,
+		"IsHandWritten": "No",
+		"Page": 4,
+		"HandWrittenText": null
+	},
+	"Name-4": {
+		"questionConfidence": 99.110595703125,
+		"answerText": "Helen Wilfong Mrs",
+		"answerSelection": null,
+		"answerConfidence": 99.110595703125,
+		"IsHandWritten": "No",
+		"Page": 4,
+		"HandWrittenText": null
+	},
+	"Identifier-4": {
+		"questionConfidence": 99.6924819946289,
+		"answerText": "10650000900",
+		"answerSelection": null,
+		"answerConfidence": 99.6924819946289,
+		"IsHandWritten": "No",
+		"Page": 4,
+		"HandWrittenText": null
+	},
+	"7. Have you fallen or almost fallen in the past 6 months?": [
+		{
+			"questionConfidence": 99.86956024169922,
+			"answerText": "Yes",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 78.564453125,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.86956024169922,
+			"answerText": "No",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 63.232421875,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"8. In the last 7 days, how often did you exercise for at least 20 minutes in a day?": [
+		{
+			"questionConfidence": 99.86621856689453,
+			"answerText": "Every day",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 74.853515625,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.86621856689453,
+			"answerText": "3 to 6 days",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 79.833984375,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.86621856689453,
+			"answerText": "1 to 2 days",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 80.37109375,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.86621856689453,
+			"answerText": "0 days",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 83.69140625,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"9. In the last 6 months, have you stayed at a hospital overnight because of a medical": [
+		{
+			"questionConfidence": 99.8460922241211,
+			"answerText": "Yes",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 84.033203125,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.8460922241211,
+			"answerText": "No",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 80.37109375,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"10. In the last 6 months, have you been treated in the emergency room for a medical": [
+		{
+			"questionConfidence": 99.87232208251953,
+			"answerText": "Yes",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 78.90625,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.87232208251953,
+			"answerText": "No",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 83.154296875,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"11. In your opinion, do you have adequate access to health care providers?": [
+		{
+			"questionConfidence": 99.82891082763672,
+			"answerText": "Yes",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 77.978515625,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.82891082763672,
+			"answerText": "No",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 85.400390625,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"if no, what challenges are you experiencing?": [],
+	"12. Are you currently following a medically prescribed diet?": [
+		{
+			"questionConfidence": 99.90553283691406,
+			"answerText": "Yes",
+			"answerSelection": "SELECTED",
+			"answerConfidence": 79.638671875,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		},
+		{
+			"questionConfidence": 99.90553283691406,
+			"answerText": "No",
+			"answerSelection": "NOT_SELECTED",
+			"answerConfidence": 86.767578125,
+			"IsHandWritten": "No",
+			"Page": 4,
+			"HandWrittenText": null
+		}
+	],
+	"If yes, diet type? (For example, you could be on a low fiber, salt-restricted, or mechanical soft diet)": [
+		{
+			"questionConfidence": 99.7984619140625,
+			"answerText": "Vegan",
+			"answerSelection": null,
+			"answerConfidence": 99.6825180053711,
+			"IsHandWritten": "Yes",
+			"Page": 4,
+			"HandWrittenText": "Vegan"
+		}
+	]
+}
